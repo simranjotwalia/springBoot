@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Course api learning
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 1024988
+Implementation-Vendor-Id: simran.ahluwalia
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/course-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

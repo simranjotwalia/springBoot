@@ -1,0 +1,10 @@
+package simran.ahluwalia;
+
+public class Courseapi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
