@@ -1,2 +1,4 @@
 .metadata/*
 course-api/target/*
+course-api-data/
+metadata/
