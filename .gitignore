@@ -1,4 +1,5 @@
 .metadata/*
 course-api/target/*
-course-api-data/
-metadata/
+course-api/.classpath
+course-api/.project
+
